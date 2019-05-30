@@ -79,3 +79,4 @@ source 'https://rails-assets.org' do
 end
 
 gem 'jquery-ui-rails'
+gem 'font-awesome-rails'
